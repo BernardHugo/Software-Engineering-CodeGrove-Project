@@ -1,2 +1,2 @@
 # Software-Engineering-CodeGrove-Project
-In this repository, I am working with my friends to create a programming forum website called CodeGrove. In this website, where user can create forum, reply forum, and view all questions forum. For admin, it can archive forum post of the user.
+In this repository, I am working with my friends to create a programming forum website called CodeGrove. It is a programming forum website inspired by Stack Overflow, where users can create forums, asking questions, reply forums by answering the posted forum, view forum post answers, view all questions forum, edit forum post, delete forum post, and register as members. For admin, it can archive forum post of specific user, view all posted questions, filter questions, and edit admin profile.
